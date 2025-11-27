@@ -31,8 +31,6 @@ Content-Type: multipart/form-data
 
 - JPEG (`.jpg`, `.jpeg`)
 - PNG (`.png`)
-- GIF (`.gif`)
-- WebP (`.webp`)
 
 ## File Size Limits
 
